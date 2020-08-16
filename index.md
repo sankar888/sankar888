@@ -1,4 +1,15 @@
+---
+layout: default
+title: Sankar's Tech Explorations
+published: true
+---
 ### Tech Explorations
-[Java nio buffers](https://sankar888.github.io/_posts/2020-08-16-java-nio-buffers.md) 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 

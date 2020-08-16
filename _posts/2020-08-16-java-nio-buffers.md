@@ -3,13 +3,12 @@ layout: post
 title: Java NIO Buffers
 published: true
 date: 2020-08-16 18:35:00 +0530
-categories:
- - java
- - input / output
- - buffers
- - io
+category: tech
 tag:
- - tech 
+ - Java Nio Buffers explained
+ - Java New IO
+ - read data from terminal
+ - Java Nio Buffers examples
 ---
 ### Java [Buffer](https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/nio/Buffer.html) and its usage
 
