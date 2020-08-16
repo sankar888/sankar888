@@ -1,15 +1,4 @@
----
-layout: default
-title: Sankar's Tech Explorations
-published: true
----
-### Tech Explorations
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+### Sankar's tech Explorations
 
+- [Java NIO Buffers](https://sankar888.github.io/docs/java-no-buffers.md)
 
